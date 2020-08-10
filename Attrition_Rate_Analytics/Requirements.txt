@@ -1,0 +1,8 @@
+Jupyter Notebook 6.0.3
+Python 3.8.3
+Numpy 1.18.5
+Pandas 1.0.4
+Matplotlib 3.2.1
+Seaborn 0.10.1
+Scikit-learn 0.23.1
+
